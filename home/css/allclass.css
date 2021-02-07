@@ -1,0 +1,98 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(../img/background/allClass/allClass.png);
+    background-size: cover;
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    height: 100vh;
+}
+#banner{
+
+
+}
+.back{
+    margin-left: -200px;
+}
+.btn{
+    border-radius: 35px;
+    background-color: #2e9cca;
+    border: none;
+    color: #FFFFFF;
+    font-size: 35px;
+    padding: 15px 40px ;
+    margin: 0 20px 0 30px;
+}
+.btn{
+    margin-left: 40px;
+}
+.search-bar{
+    width: 80%;
+    border-radius: 5px;
+    border-color: #707070;
+    margin-top: -50px;
+    margin-left: 400px;
+    margin-bottom: 15px;
+    background-image: url(../img/icon/search2.png);
+    background-repeat: no-repeat;
+    background-position: right;
+    font-size: 20px;
+    padding-right: 30px;
+
+}
+.className{
+    font-size: 35px;
+    color: #FFFFFF;
+}
+.admin{
+    font-size: 20px;
+    color: #FFFFFF;
+
+}
+.text-class{
+    border-radius: 5px;
+    background-color: #9d9c9c;
+    width: 800px;
+    font-size: 30px;
+    padding: 10px;
+    margin-left: 680px;
+    margin-top: 60px;
+    color: #565555;
+    word-spacing: 5px;
+
+}
+.class{
+    padding-right: 500px;
+}
+h1{
+    font-size: 20px;
+}
+.btn-class{
+    background-color: #a29e9e;
+    border-color: transparent;
+    border-radius: 5px;
+    padding: 5px;
+    max-width: 1000px;
+
+}
+.btn-signIn{
+    border-radius: 5px;
+    background-color: #2e9cca;
+    border: none;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding: 15px 40px ;
+    width: 300px;
+    margin: 0 20px 0 30px;
+    margin-left: 150px;
+    margin-top: -65px;
+}
+
+.allClass{
+    background: transparent;
+}

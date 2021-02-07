@@ -1,0 +1,67 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner{
+
+    background-image: url(../img/background/signUp/signUp.gif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.back{
+    position: absolute;
+    top: 3%;
+    left: 1%;
+}
+.banner-text{
+    padding-top: 65px;
+    padding-left: 100px ;
+}
+input{
+    margin: 20px;
+}
+.signUp{
+    border-radius: 35px;
+    background-color: #2e9cca;
+    border: none;
+    color: #FFFFFF;
+    font-size: 25px;
+    padding: 15px 40px ;
+    margin: 0 20px 0 30px;
+}
+.picture{
+    padding: 15px;
+    padding-left: 90px;
+}.signUp{
+     margin-left: 100px;
+ }
+.text-box{
+    overflow: hidden;
+    font-size: 20px;
+    padding: 15px;
+
+}
+.text-box div{
+    border: #707070;
+}
+.text-box input{
+    padding: 8px;
+    border-width:2px;
+    border-style:solid;
+    border-color:#FFFFFF;
+    border-bottom: 4px solid #707070;
+    width: 25%;
+
+}
+.text-box input:focus{
+    border-width:2px;
+    border-style:solid;
+    border-color:#FFFFFF;
+    border-bottom: 4px solid #707070;
+}
+.text-box i{
+    color: #707070;
+}
+

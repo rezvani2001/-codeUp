@@ -1,0 +1,48 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0;
+    padding: 0;
+
+}
+body{
+    background-image: url(../img/background/class/class.gif);
+    background-size: cover;
+    /*background-position: center;*/
+    /*background-repeat: no-repeat;*/
+    background-attachment: fixed;
+    height: 100vh;
+}
+.back{
+    margin-left: -200px;
+}
+.name-class{
+    font-size: 30px;
+    color: #707070;
+    text-align: center;
+    margin-left: -800px;
+}
+.tests{
+    font-size: 25px;
+    color: #707070;
+    text-align: center;
+    margin-left: -500px;
+}
+.btn{
+    border-radius: 5px;
+    background: #2e9cca;
+    color: #FFFFFF;
+    size: 20px;
+    width: 300px;
+    margin-left: 200px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.btn-newQ{
+    border-radius: 5px;
+    background: #707070;
+    color: #FFFFFF;
+    width: 200px;
+    margin-top: 20px;
+    margin-left: 50px;
+    height: 40px;
+}

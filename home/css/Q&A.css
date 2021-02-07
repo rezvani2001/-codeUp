@@ -1,0 +1,47 @@
+@import "https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css";
+*{
+    margin: 0;
+    padding: 0;
+}
+#banner{
+
+    background-image: url(../img/background/q&a/q&a2.gif);
+    background-size: cover;
+    background-position: center;
+    height: 100vh;
+}
+.back{
+    position: absolute;
+    top: 3%;
+    left: 1%;
+}
+.banner-text{
+    padding-top: 250px;
+    padding-left: 100px ;
+
+}
+input{
+    margin: 20px;
+}
+.btn-nq{
+    border-radius: 35px;
+    background-color: #2e9cca;
+    border: none;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 25px 40px ;
+    margin: 0 20px 0 30px;
+    width: 27%;
+}
+.btn-q {
+    border-radius: 35px;
+    background-color: #707070;
+    border: none;
+    color: #FFFFFF;
+    font-size: 30px;
+    padding: 25px 40px;
+    margin: 0 20px 0 30px;
+    width: 27%;
+
+
+}

@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ce985a14-79c6-4eb2-987b-f3072151d286" name="Default Changelist" comment="codeup_2">
+      <change afterPath="$PROJECT_DIR$/home/css/question.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/home/html/question.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.name" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/css/SingIn.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/css/home.css" beforeDir="false" afterPath="$PROJECT_DIR$/home/css/home.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/html/SignIn.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/html/SignIn.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/html/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/home/html/home.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/close.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/galaxy.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/galaxy_blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-img-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-04.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-05.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/gallery-tn-06.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/home.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/home3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/infinite-loop-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/infinite-loop-02-mobile.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/infinite-loop-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/infinite-loop-03.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/Untitled-3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/Untitled-4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/Untitled-5.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/Untitled.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/logo.gif" beforeDir="false" afterPath="$PROJECT_DIR$/home/img/logo/logo.gif" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/logo.psd" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/logo1.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/logo2.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/logo/logo3.gif" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/menu.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/mini-profile-bg-01.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/mini-profile-bg-02.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/signIn.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/signIn_blur.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/home/img/signIn_blur2.jpg" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PUSH_TAGS">
+      <GitPushTagMode>
+        <option name="argument" value="--tags" />
+        <option name="title" value="All" />
+      </GitPushTagMode>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lbHSvhRdf60G09kN6VtZYIu3WQ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="cf.first.check.clang-format" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\code up\home\img" />
+      <recent name="E:\code up\home\html" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Unnamed" type="FirefoxRemoteDebugType" nameIsGenerated="true">
+      <method v="2" />
+    </configuration>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ce985a14-79c6-4eb2-987b-f3072151d286" name="Default Changelist" comment="" />
+      <created>1607858875462</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607858875462</updated>
+      <workItem from="1607858876891" duration="151000" />
+      <workItem from="1607859039887" duration="18000" />
+      <workItem from="1607859067539" duration="660000" />
+      <workItem from="1607859741601" duration="26000" />
+      <workItem from="1607859780818" duration="150000" />
+      <workItem from="1607860302944" duration="44000" />
+      <workItem from="1607860360229" duration="7469000" />
+      <workItem from="1607939418822" duration="2402000" />
+      <workItem from="1608017987661" duration="608000" />
+      <workItem from="1608190538776" duration="8000" />
+      <workItem from="1608213337379" duration="5532000" />
+      <workItem from="1608277369546" duration="17944000" />
+      <workItem from="1608353962204" duration="12221000" />
+      <workItem from="1608554064566" duration="975000" />
+      <workItem from="1608644493155" duration="2266000" />
+      <workItem from="1609170405991" duration="1238000" />
+      <workItem from="1609244577041" duration="17696000" />
+      <workItem from="1609394575131" duration="4227000" />
+      <workItem from="1609507934670" duration="1659000" />
+      <workItem from="1609839319370" duration="2049000" />
+      <workItem from="1610083117293" duration="5624000" />
+      <workItem from="1610273051464" duration="592000" />
+      <workItem from="1611041480272" duration="13992000" />
+      <workItem from="1611147715659" duration="3256000" />
+      <workItem from="1611233849348" duration="2813000" />
+      <workItem from="1611296165437" duration="6096000" />
+      <workItem from="1611324579930" duration="10752000" />
+      <workItem from="1611380968899" duration="7847000" />
+      <workItem from="1611410842040" duration="7652000" />
+    </task>
+    <task id="LOCAL-00001" summary="codeup_1">
+      <created>1609401415224</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1609401415224</updated>
+    </task>
+    <task id="LOCAL-00002" summary="codeup_2">
+      <created>1610089781473</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1610089781473</updated>
+    </task>
+    <task id="LOCAL-00003" summary="codeup_2">
+      <created>1610090159552</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1610090159552</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="master" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="codeup_1" />
+    <MESSAGE value="codeup_2" />
+    <option name="LAST_COMMIT_MESSAGE" value="codeup_2" />
+  </component>
+</project>

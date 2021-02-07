@@ -1,0 +1,65 @@
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
+    <title>CODE UP</title>
+    <link rel="stylesheet" href="../css/home.css">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link href="https://fonts.googleapis.com/css2?family=Kaushan+Script&display=swap" rel="stylesheet">
+</head>
+<body>
+<section id="banner">
+    <div class="container">
+    <img src="../img//logo/logo.gif" class="logo">
+
+    </div>
+    <div class="banner-text">
+        <h1>WELCOME<br>TO CODE UP</h1>
+        <br>
+        <a href="signIn.html">
+        <button class="signIn" >ورود</button>
+        </a>
+        <a href="signUp.html">
+            <button class="signUp">ثبت نام</button>
+        </a>
+
+    </div>
+</section>
+
+<div id="sideNav">
+    <nav>
+        <ul>
+            <li><a href="Q&A.html">پرسش و پاسخ</a></li>
+            <li><a href="aboutUs.html">درباره ما</a></li>
+        </ul>
+    </nav>
+</div>
+<div id="menu-btn">
+    <img src="../img/icon/menu.png" id="menu">
+</div>
+<script>
+    if(localStorage['currentUser'] != undefined && localStorage['currentUser'] != null){
+    localStorage.removeItem('currentUser');
+    }
+
+
+    
+    var menuBtn=document.getElementById("menu-btn")
+    var sideNav=document.getElementById("sideNav")
+    var menu=document.getElementById("menu")
+    sideNav.style.right="-250px";
+    menuBtn.onclick=function () {
+        if (sideNav.style.right=="-250px"){
+            sideNav.style.right="0";
+            menu.src="../img/icon/close.png";
+        }else {
+            sideNav.style.right="-250px";
+            menu.src="../img/icon/menu.png";
+
+        }
+    }
+</script>
+</body>
+</html>
